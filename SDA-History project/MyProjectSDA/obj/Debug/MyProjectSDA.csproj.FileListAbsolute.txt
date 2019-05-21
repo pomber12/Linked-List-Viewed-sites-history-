@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\SDA-History project\MyProjectSDA\bin\Debug\MyProjectSDA.exe
+C:\Users\User\Desktop\SDA-History project\MyProjectSDA\bin\Debug\MyProjectSDA.pdb
+C:\Users\User\Desktop\SDA-History project\MyProjectSDA\obj\Debug\MyProjectSDA.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SDA-History project\MyProjectSDA\obj\Debug\MyProjectSDA.Form1.resources
+C:\Users\User\Desktop\SDA-History project\MyProjectSDA\obj\Debug\MyProjectSDA.Properties.Resources.resources
+C:\Users\User\Desktop\SDA-History project\MyProjectSDA\obj\Debug\MyProjectSDA.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SDA-History project\MyProjectSDA\obj\Debug\MyProjectSDA.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SDA-History project\MyProjectSDA\obj\Debug\MyProjectSDA.exe
+C:\Users\User\Desktop\SDA-History project\MyProjectSDA\obj\Debug\MyProjectSDA.pdb
